@@ -1,8 +1,8 @@
 {
-  "version": "0.0.0",
-  "build": 0,
-  "url": "",
-  "page": "https://github.com/libai6666/Youying-updates/releases",
+  "version": "1.4.5",
+  "build": 29,
+  "url": "https://github.com/libai6666/Youying-updates/releases/download/android-v1.4.5/youying-android-release-20261103-093855-690.apk",
+  "page": "https://github.com/libai6666/Youying-updates/releases/tag/android-v1.4.5",
   "notes": [],
-  "published": ""
+  "published": "2026-11-03T09:39:13Z"
 }
