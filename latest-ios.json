@@ -1,8 +1,8 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.2",
   "build": 0,
-  "url": "",
-  "page": "https://github.com/libai6666/Youying-updates/releases",
+  "url": "https://github.com/libai6666/Youying-updates/releases/download/ios-v1.0.2/youying-ios-1.0.2-unsigned.ipa",
+  "page": "https://github.com/libai6666/Youying-updates/releases/tag/ios-v1.0.2",
   "notes": [],
-  "published": ""
+  "published": "2026-11-03T09:29:50Z"
 }
